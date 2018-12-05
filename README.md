@@ -7,13 +7,11 @@ Example usage of count on a null resource
 
 # TO DO
 
-- Create README with instructions
-
 # DONE
 
 - Create a terraform configuration file
 - Implement the terraform count provider
-
+- Create README with instructions
 
 # Instructions
 
